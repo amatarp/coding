@@ -1,0 +1,2 @@
+# coding
+ini kodingan gembel
